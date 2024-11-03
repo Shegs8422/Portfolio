@@ -1,3 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+a {
+    text-decoration: none
+}
+
+body {
+    font-family: 'ProductSans-Medium';
+    color: #333;
+    line-height: 1.6;
+    scroll-behavior: smooth;
+    overflow-x: hidden
+}
+
 @font-face {
     font-family: ProductSans-Black;
     src: url(/assets/font/ProductSans-Black.ttf)
@@ -16,24 +35,6 @@
 @font-face {
     font-family: ProductSans-Light;
     src: url(/assets/font/ProductSans-Light.ttf)
-}
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box
-}
-
-a {
-    text-decoration: none
-}
-
-body {
-    font-family: 'ProductSans-Medium';
-    color: #333;
-    line-height: 1.6;
-    scroll-behavior: smooth;
-    overflow-x: hidden
 }
 
 button,
