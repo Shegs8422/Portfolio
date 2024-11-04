@@ -1,5 +1,5 @@
 body {
-    font-family: 'ProductSans-Medium';
+    font-family: "Raleway", serif;
     color: #333;
     line-height: 1.6;
     scroll-behavior: smooth;
@@ -79,7 +79,7 @@ nav ul li a {
     padding: 15px;
     text-decoration: none;
     color: #fff;
-    font-family: 'ProductSans-Medium';
+    font-family: "Raleway", serif;
     text-transform: uppercase;
     margin: 0 10px
 }
@@ -222,13 +222,13 @@ nav.fill ul li a:hover:after {
 .link-one {
     text-decoration: none;
     font-size: 30px;
-    font-family: 'ProductSans-Bold'
+    font-family: "Raleway", serif;
 }
 
 .home-section h1 {
     font-size: 2.5rem;
     color: #fff;
-    font-family: 'ProductSans-Medium';
+    font-family: "Raleway", serif;
     margin-top: 2%
 }
 
@@ -239,7 +239,7 @@ nav.fill ul li a:hover:after {
 .home-section p {
     font-size: 1.2rem;
     color: #fff;
-    font-family: 'ProductSans-Light'
+    font-family: "Raleway", serif;
 }
 
 .about-section {
@@ -252,7 +252,7 @@ nav.fill ul li a:hover:after {
 .about-section h2 {
     font-size: 2rem;
     margin-bottom: 20px;
-    font-family: 'ProductSans-Black'
+    font-family: "Raleway", serif;
 }
 
 .about-content {
@@ -272,7 +272,7 @@ nav.fill ul li a:hover:after {
 }
 
 .bio p {
-    font-family: 'ProductSans-Light';
+    font-family: "Raleway", serif;
     text-align: left;
     margin-bottom: 1rem
 }
