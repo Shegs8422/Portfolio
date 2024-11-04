@@ -1,22 +1,3 @@
-@font-face {
-    font-family: ProductSans-Black;
-    src: url(/assets/font/ProductSans-Black.ttf)
-}
-
-@font-face {
-    font-family: ProductSans-Bold;
-    src: url(/assets/font/ProductSans-Bold.ttf)
-}
-
-@font-face {
-    font-family: ProductSans-Medium;
-    src: url(/assets/font/ProductSans-Medium.ttf)
-}
-
-@font-face {
-    font-family: ProductSans-Light;
-    src: url(/assets/font/ProductSans-Light.ttf)
-}
 
 * {
     margin: 0;
@@ -29,7 +10,8 @@ a {
 }
 
 body {
-    font-family: 'ProductSans-Medium';
+    font-family: "Raleway", serif;
+    font-optical-sizing: auto;
     color: #333;
     line-height: 1.6;
     scroll-behavior: smooth;
