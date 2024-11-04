@@ -1,3 +1,7 @@
+:root {
+    --vw: 1vw;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -315,7 +319,14 @@ nav.fill ul li a:hover:after {
     border-radius: 5px;
     width: 500px;
     text-align: center;
-    margin: 0
+    margin: 0;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    transition: transform ease 0.5s, box-shadow ease 0.5s;
+}
+
+.skill:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
 }
 
 .skill h3 {
