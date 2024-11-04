@@ -6,6 +6,10 @@ body {
     overflow-x: hidden
 }
 
+a {
+    text-decoration: none;
+}
+
 button,
 .submit-btn {
     padding: 1.3em 3em;
@@ -303,7 +307,7 @@ nav.fill ul li a:hover:after {
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 5px;
-    width: 600px;
+    width: 500px;
     text-align: center;
     margin: 0
 }
